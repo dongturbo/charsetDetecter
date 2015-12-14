@@ -1,0 +1,45 @@
+﻿生成启动时间为 2015/12/14 10:44:20。
+     1>项目“C:\Users\博\documents\visual studio 2013\Projects\probeEncode\probeEncode\probeEncode.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\probeEncode.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt probeEncode.cpp
+         probeEncode.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\博\documents\visual studio 2013\Projects\probeEncode\Debug\probeEncode.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\博\documents\visual studio 2013\Projects\probeEncode\Debug\probeEncode.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\博\documents\visual studio 2013\Projects\probeEncode\Debug\probeEncode.lib" /MACHINE:X86 Debug\CharDistribution.obj
+         Debug\JpCntx.obj
+         Debug\LangBulgarianModel.obj
+         Debug\LangEsperantoModel.obj
+         Debug\LangFrenchModel.obj
+         Debug\LangGermanModel.obj
+         Debug\LangGreekModel.obj
+         Debug\LangHebrewModel.obj
+         Debug\LangHungarianModel.obj
+         Debug\LangRussianModel.obj
+         Debug\LangSpanishModel.obj
+         Debug\LangThaiModel.obj
+         Debug\LangTurkishModel.obj
+         Debug\nsBig5Prober.obj
+         Debug\nsCharSetProber.obj
+         Debug\nsEscCharsetProber.obj
+         Debug\nsEscSM.obj
+         Debug\nsEUCJPProber.obj
+         Debug\nsEUCKRProber.obj
+         Debug\nsEUCTWProber.obj
+         Debug\nsGB2312Prober.obj
+         Debug\nsHebrewProber.obj
+         Debug\nsLatin1Prober.obj
+         Debug\nsMBCSGroupProber.obj
+         Debug\nsMBCSSM.obj
+         Debug\nsSBCharSetProber.obj
+         Debug\nsSBCSGroupProber.obj
+         Debug\nsSJISProber.obj
+         Debug\nsUniversalDetector.obj
+         Debug\nsUTF8Prober.obj
+         Debug\probeEncode.obj
+         Debug\stdafx.obj
+         Debug\uchardet.obj
+         probeEncode.vcxproj -> C:\Users\博\documents\visual studio 2013\Projects\probeEncode\Debug\probeEncode.exe
+     1>已完成生成项目“C:\Users\博\documents\visual studio 2013\Projects\probeEncode\probeEncode\probeEncode.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.68
